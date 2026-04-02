@@ -1,0 +1,2 @@
+date;device ;model ;serial ;responsible ;profession ;ips ;id ;name ;lastname ;gender ;age ;test_tp;test_ptt;test_fib;physician ; specialty ;admission ;dx_ppal;dx2;dx3;dx4;dx5
+202602020035;HITACHI 1200; RH1234;H758RFG8965S;Ramón Valdés; Bacteriólogo; Clínica IPS;6677889900;María Mercedes;Machado Mejía; Femenino;45;10,2;30,4;251; Dra. Margarita María Mesa Mora;Cirujana;Hospitalización;Apendicitis;Dolor abdominal agudo;;;
